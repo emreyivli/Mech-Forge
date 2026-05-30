@@ -9,10 +9,10 @@
 
 Makine ve imalat mühendisleri için parametrik kesit özellikleri, gerilme zarfı, güvenlik katsayısı, 3D önizleme ve PDF rapor — **tamamen yerel, bulut yok, telemetri yok.**
 
-[![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-v1.3.0-2563EB)](https://github.com/emreyivli/Mech-Forge/releases/latest)
+[![Sürüm](https://img.shields.io/badge/s%C3%BCr%C3%BCm-v1.3.1-2563EB)](https://github.com/emreyivli/Mech-Forge/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?logo=windows&logoColor=white)](#-i̇ndir--download)
 [![Doğrulama](https://img.shields.io/badge/do%C4%9Frulama-192%2F192%20ye%C5%9Fil-2E7D32)](#-mühendislik-güvencesi)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-69%2F70%20temiz-2E7D32?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/c2b0552b65e9ad88f5d85ac9968a3a2aa6fd5c85f8ccdfe4c474ea162878f924)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-69%2F70%20temiz-2E7D32?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/d21c95c5cfe98462009f07c0a70d8bfff289efdf9bd73afaec95dc93a453d44a)
 [![Lisans](https://img.shields.io/badge/lisans-Proprietary-blue)](#-lisans)
 
 **[⬇ Windows Installer İndir](https://github.com/emreyivli/Mech-Forge/releases/latest)**
@@ -93,11 +93,11 @@ Her sayfada markalı başlık · sürüm rozetli kapak · σ_akma + kullanım or
 
 <div align="center">
 
-### **[» MechForge-1.3.0-Setup.exe «](https://github.com/emreyivli/Mech-Forge/releases/latest)**
+### **[» MechForge-1.3.1-Setup.exe «](https://github.com/emreyivli/Mech-Forge/releases/latest)**
 
 </div>
 
-1. Yukarıdaki linkten `MechForge-1.3.0-Setup.exe` dosyasını indirin.
+1. Yukarıdaki linkten `MechForge-1.3.1-Setup.exe` dosyasını indirin.
 2. Kurulum sihirbazını takip edin.
 3. MechForge'u Başlat Menüsü veya masaüstü kısayolundan başlatın — hazırsınız!
 
@@ -116,7 +116,7 @@ MechForge yeni yayınlanmış, bağımsız bir uygulamadır ve henüz pahalı bi
 
 ### Bağımsız doğrulama
 
-Şüpheniz olmasın diye installer'ı [VirusTotal](https://www.virustotal.com/gui/file/c2b0552b65e9ad88f5d85ac9968a3a2aa6fd5c85f8ccdfe4c474ea162878f924) üzerinde **70 bağımsız antivirüs motoruyla** taradık:
+Şüpheniz olmasın diye installer'ı [VirusTotal](https://www.virustotal.com/gui/file/d21c95c5cfe98462009f07c0a70d8bfff289efdf9bd73afaec95dc93a453d44a) üzerinde **70 bağımsız antivirüs motoruyla** taradık:
 
 > **69 / 70 motor "temiz" dedi** — Microsoft Defender, Kaspersky, BitDefender, Avast, McAfee, Symantec, Sophos, TrendMicro, CrowdStrike, Google ve diğerleri dahil. Tek istisna olan ESET, gerçek bir tehdit değil, yalnızca uygulamanın derlendiği **Nuitka paketleyicisine** ait jenerik bir sezgisel (heuristic) işaretlemedir — bu, Nuitka/Python ile derlenmiş temiz uygulamalarda sık görülen, bilinen bir yanlış-pozitiftir.
 
